@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Hugo.W
 
-<!--
-**HugoWorld/HugoWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**政企信息化老兵 × AI独立开发者**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 关于我
+
+深耕政企信息化领域，目前在探索 AI Agent 技术落地与独立开发者的可能性。
+
+双线并行：
+- **技术线**：AI Agent / KAG知识库 / 政企数字化架构 / 铁塔视联平台
+- **产品线**：一人公司探索 / 知识付费IP / 副业产品从0到1
+
+---
+
+## 🛠️ 技术栈
+
+```
+┌─ 后端 & 架构 ─────────────────────────┐
+│  Python · FastAPI · Node.js · Go     │
+│  LangChain · Dify · KAG · 微服务    │
+└───────────────────────────────────────┘
+
+┌─ 前端 & 工具 ───────────────────────┐
+│  React · Astro · TypeScript · Docker │
+│  PostgreSQL · Redis · Kafka · Linux  │
+└───────────────────────────────────────┘
+```
+
+---
+
+## 📦 我在做的事
+
+| 方向 | 项目 | 状态 |
+|------|------|------|
+| 🤖 AI Lab | AI Agent实验与探索 | 🚧 进行中 |
+| 📚 KAG知识库 | 政企场景知识库构建实践 | 🚧 进行中 |
+| ✍️ 技术博客 | 技术深度与产品思考随笔 | 🚧 进行中 |
+| 🛠️ 效率工具 | 效率脚本与提示词库 | 📝 规划中 |
+
+---
+
+## 🌐 联系我
+
+- 📧 Email: 470114370@qq.com
+- 📍 Location: 广州
+- 💼 关注：AI Agent · 独立开发 · 政企数字化
+
+---
+
+> *保持好奇，持续输出。*
